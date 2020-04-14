@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;1,400&family=Poppins:wght@400;600&display=swap');
+.jumbotron {
+	background-image: url(../img/nanotech.jpg);
+	background-size: cover;
+	height: 100%;
+	color: white;
+	font-family: sans-serif;
+	padding: 40px;
+}
+hr  {
+    height: 1px;
+    background-color: #fff;
+    border: none;
+}
+.text-info {
+	color: #00717C;
+}
+.fun {
+  display: block;
+  width: 100%;
+  border: 0.5px;
+  padding: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+#emoji {
+  color: #00717C;
+}
