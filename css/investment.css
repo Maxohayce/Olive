@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;1,400&family=Poppins:wght@400;600&display=swap');
+html,
+body {
+  font-family: 'Poppins', serif;
+  font-size: 20px;
+}
+.container {
+	width: cover;
+}
+.investment {
+	color: #00717C;
+	padding: 20px;
+	width: 25rem;
+	margin: 4em;
+	box-shadow: 5px 5px 1px 2px #545B5E;
+	font-size: 20px;
+	background-color: #FF9A40;
+	display: flex;
+	border-radius: 2px;
+	text-indent: .1em;
+}
+.row {
+	margin: 2px;
+	display: flex;
+	align-items: center;
+}
+.square {
+	height: 12px;
+	width: 12px;
+	display: inline-block;
+	background-color: #545B5E;
+}
+.container  h1 {
+	color: #00717C;
+	border-bottom: solid 1px #FF9A40;
+	display: inline-block;
+	padding-bottom: 2px;
+}
+.card-img-top {
+	
+}
+
+.cardi {
+	color: #00717C;
+	padding: 1px;
+	width: 18rem;
+	margin: 1em;
+	font-size: 20px;
+	background-color: #FFF;
+	border: 1px solid #00717C;
+}
+.jumbotron{
+	background-color: #fff;
+	margin: 0px;
+	width: 100%;
+	color: #00717C;
+	border: #02E9FF;
+}
+
+.container-fluid-padding {
+	width: 100%;
+}
